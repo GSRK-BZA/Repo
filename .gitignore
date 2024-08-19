@@ -1,0 +1,4 @@
+.env
+newApp/
+Server/
+node_modules
