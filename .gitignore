@@ -1,4 +1,5 @@
 .env
 newApp/
 Server/
-node_modules
+
+LocationAlarmApp/node_modules/
